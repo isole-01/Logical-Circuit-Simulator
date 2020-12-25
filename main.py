@@ -151,4 +151,4 @@ def comparator_test():
 
 turn_off_debug(False)
 
-johnson_counter(800)
+johnson_counter(10)
